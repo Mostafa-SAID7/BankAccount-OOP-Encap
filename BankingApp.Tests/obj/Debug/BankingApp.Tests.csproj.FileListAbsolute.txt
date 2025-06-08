@@ -1,0 +1,2 @@
+C:\Users\Mostafa\Desktop\prjs\C# prjs\BankAccount-OOP-Encap\BankingApp.Tests\obj\Debug\BankingApp.Tests.csproj.AssemblyReference.cache
+C:\Users\Mostafa\Desktop\prjs\C# prjs\BankAccount-OOP-Encap\BankingApp.Tests\obj\Debug\BankingApp.Tests.csproj.CoreCompileInputs.cache
